@@ -16,7 +16,7 @@ const aboutMe = {
          java: ["Spring"],
          js: ["Node", "Express"],
       },
-      databases: ["MongoDB", "mySQL", "SQLServer"],
+      databases: ["MongoDB", "MySQL", "SQLServer"],
       mobile: ["Android", "IOS"]
    },
    currentOccupation: ["last year student, open for job opportunities"],
